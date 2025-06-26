@@ -1,0 +1,12 @@
+project-root/
+│
+├── backend/
+│   ├── routes/
+│   │   └── servicenow.js      <-- NEW
+│   └── server.js
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── ServiceNowForm.jsx  <-- NEW
+│   │   └── App.js / routes.jsx
